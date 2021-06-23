@@ -1,2 +1,2 @@
 # A prototype-app calculator made with React
-You can user [here](https://alanctnk.github.io/calculadora/).
+You can use [here](https://alanctnk.github.io/calculadora/).
