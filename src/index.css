@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url('./fonts/Nunito-ExtraLight.ttf');
+}
+
+* {
+  font-family: 'Nunito', 'monospace';
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #fff;
+
+  /* https://uigradients.com/ */
+  background: #a8ff78;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
