@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.6db58ad0.chunk.css",
+    "main.js": "/calculadora/static/js/main.010dcd7b.chunk.js",
+    "main.js.map": "/calculadora/static/js/main.010dcd7b.chunk.js.map",
+    "runtime-main.js": "/calculadora/static/js/runtime-main.86b18516.js",
+    "runtime-main.js.map": "/calculadora/static/js/runtime-main.86b18516.js.map",
+    "static/js/2.8ec25b08.chunk.js": "/calculadora/static/js/2.8ec25b08.chunk.js",
+    "static/js/2.8ec25b08.chunk.js.map": "/calculadora/static/js/2.8ec25b08.chunk.js.map",
+    "static/js/3.0ca86f70.chunk.js": "/calculadora/static/js/3.0ca86f70.chunk.js",
+    "static/js/3.0ca86f70.chunk.js.map": "/calculadora/static/js/3.0ca86f70.chunk.js.map",
+    "index.html": "/calculadora/index.html",
+    "static/css/main.6db58ad0.chunk.css.map": "/calculadora/static/css/main.6db58ad0.chunk.css.map",
+    "static/js/2.8ec25b08.chunk.js.LICENSE.txt": "/calculadora/static/js/2.8ec25b08.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calculadora/static/media/Nunito-ExtraLight.79e8b288.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86b18516.js",
+    "static/js/2.8ec25b08.chunk.js",
+    "static/css/main.6db58ad0.chunk.css",
+    "static/js/main.010dcd7b.chunk.js"
+  ]
+}
